@@ -4,8 +4,6 @@
 - 🌱 Estou me dedicando nas tecnologias utilizadas no front-end
 - 🤔 Estou procurando ajuda como praticas em desenvolvimento web
 - 📫 Contate-me no email: gustavoriquesb2002@gmail.com
-- 😄 Pronouns: ele/dele
-
 
 <div>
   <a href="https://github.com/gustavoshr">
