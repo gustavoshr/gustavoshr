@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Gustavo 👋
 
-- 🔭 Estou a procura de oportunidades de estagio, como desenvolvedor front-end jr
+- 🔭 Estou a procura de oportunidades como analista de sistemas pleno
 - 🌱 Estou me dedicando nas tecnologias utilizadas no front-end
 - 🤔 Estou procurando ajuda como praticas em desenvolvimento web
 - 📫 Contate-me no email: gustavoriquesb2002@gmail.com
