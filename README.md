@@ -48,18 +48,6 @@ var me = Gustavo{
 
 ---
 
-## Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustavoshr&theme=dracula&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoshr&layout=compact&langs_count=6&theme=dracula&hide_border=true)
-
-</div>
-
----
-
 ## Trilha
 
 ```
