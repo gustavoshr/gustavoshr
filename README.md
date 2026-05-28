@@ -22,7 +22,7 @@ var me = Gustavo{
     Age:      24,
     Focus:    "Back-end Development",
     Learning: []string{"Go", "APIs REST", "Estruturas de dados"},
-    Next:     []string{"PostgreSQL", "Docker", "Linux"},
+    Next:     []string{"SQL", "Docker"},
     Contact:  "gustavoriquesb2002@gmail.com",
 }
 ```
@@ -43,17 +43,16 @@ var me = Gustavo{
 
 **Próximos passos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
 ## Stats
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gustavoshr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoshr&layout=compact&langs_count=6&theme=dracula&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavoshr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoshr&layout=compact&langs_count=6&theme=dracula&hide_border=true&cache_seconds=1800" height="155"/>
 </div>
 
 ---
@@ -65,7 +64,7 @@ var me = Gustavo{
 ✅  HTML · CSS · JavaScript
 🔄  Go — sintaxe, structs, goroutines, interfaces
 ○   APIs REST com Go
-○   PostgreSQL + GORM
+○   SQL
 ○   Docker & containers
 ○   Autenticação JWT
 ○   Deploy — VPS / Railway / Fly.io
