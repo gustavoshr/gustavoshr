@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Gustavo Henrique</h1>
+  <h1>Gustavo Bispo</h1>
   <p><em>Analista de Sistemas · Backend Developer</em></p>
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1200&color=00ADD8&center=true&vCenter=true&width=420&lines=Estudando+Go+%F0%9F%90%B9;Construindo+sistemas+robustos;APIs+%2C+back-end+%2C+arquitetura)](https://git.io/typing-svg)
