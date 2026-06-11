@@ -66,7 +66,7 @@ var me = Gustavo{
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoshr_/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-628974203)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bispo-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavoriquesb2002@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=gustavoshr&color=00ADD8&style=flat-square&label=visitors"/>
