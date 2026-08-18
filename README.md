@@ -12,40 +12,38 @@ package main
 
 type Gustavo struct {
     Age      int
+    Role     string
     Focus    string
-    Learning []string
+    Building []string
     Next     []string
     Contact  string
 }
 
 var me = Gustavo{
     Age:      24,
-    Focus:    "Back-end Development",
-    Learning: []string{"Go", "APIs REST", "Estruturas de dados"},
-    Next:     []string{"SQL", "Docker"},
-    Contact:  "gustavoriquesb2002@gmail.com",
+    Role:     "Analista de Sistemas @ Comunikime",
+    Focus:    "Transição para Back-end Development",
+    Building: []string{
+        "Atlas Bank — sistema bancário em Go",
+        "Fornece — marketplace B2B em Go + SQL Server",
+        "GO-URL-Monitoramento — monitoramento de sites com Go + PostgreSQL",
+    },
+    Next:    []string{"PostgreSQL", "Deploy", "Microsserviços"},
+    Contact: "gustavorique060701@icloud.com",
 }
 ```
 
 ---
 
-## Tecnologias
+## Stack
 
-**Atualmente**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-**Base**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Próximos passos**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+| Camada       | Tecnologias                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| Linguagem    | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
+| Banco        | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| DevOps       | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| Ferramentas  | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| API          | ![REST](https://img.shields.io/badge/REST-API-00ADD8?style=flat-square&logoColor=white) |
 
 ---
 
@@ -53,13 +51,15 @@ var me = Gustavo{
 
 ```
 ✅  Lógica de programação
-✅  HTML · CSS · JavaScript
 ✅  Go — sintaxe, structs, goroutines, interfaces
-✅   APIs REST com Go
-✅   SQL
-🔄   Docker & containers
-○   Autenticação JWT
+✅  APIs REST com Go
+✅  SQL Server — 4 anos de experiência
+✅  Docker & containers
+✅  Autenticação (JWT · bcrypt · sessions)
+✅  Git & GitHub
+🔄  PostgreSQL
 ○   Deploy — VPS / Railway / Fly.io
+○   Microsserviços
 ```
 
 ---
@@ -68,7 +68,7 @@ var me = Gustavo{
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gustavoshr_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bispo-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavoriquesb2002@gmail.com)
+[![iCloud Mail](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=apple&logoColor=white)](mailto:gustavorique060701@icloud.com)
 
 <img src="https://komarev.com/ghpvc/?username=gustavoshr&color=00ADD8&style=flat-square&label=visitors"/>
 
