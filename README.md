@@ -54,10 +54,10 @@ var me = Gustavo{
 ```
 ✅  Lógica de programação
 ✅  HTML · CSS · JavaScript
-🔄  Go — sintaxe, structs, goroutines, interfaces
-○   APIs REST com Go
-○   SQL
-○   Docker & containers
+✅  Go — sintaxe, structs, goroutines, interfaces
+✅   APIs REST com Go
+✅   SQL
+🔄   Docker & containers
 ○   Autenticação JWT
 ○   Deploy — VPS / Railway / Fly.io
 ```
