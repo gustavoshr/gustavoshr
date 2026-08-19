@@ -38,12 +38,11 @@ var me = Gustavo{
 ## Stack
 
 #### 🐹 Linguagem
-<img src="https://skillicons.dev/icons?i=go&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go&theme=dark" />
 
 #### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
-<br/>
-<sub>+ SQL Server</sub>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 
 #### 🐳 DevOps & Versionamento
 <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
