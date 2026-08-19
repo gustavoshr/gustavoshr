@@ -38,7 +38,7 @@ var me = Gustavo{
 ## Stack
 
 #### 🐹 Linguagem
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=go&theme=dark" />
 
 #### 🗄️ Banco de Dados
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
