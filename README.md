@@ -28,7 +28,7 @@ var me = Gustavo{
         "Fornece — marketplace B2B em Go + SQL Server",
         "GO-URL-Monitoramento — monitoramento de sites com Go + PostgreSQL",
     },
-    Next:    []string{"PostgreSQL", "Deploy", "Microsserviços"},
+    Next:    []string{"Deploy", "Microsserviços"},
     Contact: "gustavorique060701@icloud.com",
 }
 ```
@@ -37,11 +37,22 @@ var me = Gustavo{
 
 ## Stack
 
-- 🐹 **Linguagem:** Go
-- 🗄️ **Banco:** SQL Server · PostgreSQL
-- 🐳 **DevOps:** Docker · Git
-- 🛠️ **Ferramentas:** VS Code · GitHub
-- 🔌 **API:** REST
+#### 🐹 Linguagem
+<img src="https://skillicons.dev/icons?i=go&theme=dark" />
+
+#### 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+<br/>
+<sub>+ SQL Server</sub>
+
+#### 🐳 DevOps & Versionamento
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+
+#### 🛠️ Ferramentas
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+
+#### 🌐 Base Web
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 ---
 
